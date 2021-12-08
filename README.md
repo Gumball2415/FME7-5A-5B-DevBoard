@@ -4,6 +4,16 @@
 
 An Open-Source HardWare (OSHW) development/reproduction cartridge PCB designed for INES mapper 69.
 
+## PCB Specifications
+
+Note that this project is optimized for JLCPCB manufacturing, so you may have to modify the gerber export, remove the "JLCJLCJLCJLC" silkscreen text, etc.
+
+- 2 layers
+- 91.28mm x 58.34mm
+- 1.2mm thickness
+- ENIG-RoHS surface finish recommended; Gold fingers optional
+- Any soldermask color you want!
+
 ## License
 
 The PCB and schematics are licensed under the TAPR Open Hardware License ([www.tapr.org/OHL](http://www.tapr.org/OHL)). © Persune 2021
