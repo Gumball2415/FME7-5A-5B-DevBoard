@@ -1,4 +1,4 @@
-update=12/11/2021 4:25:13 PM
+update=12/17/2021 10:14:48 PM
 version=1
 last_client=kicad
 [general]
@@ -17,7 +17,7 @@ version=1
 PageLayoutDescrFile=
 LastNetListRead=
 CopperLayerCount=2
-BoardThickness=1.6
+BoardThickness=1.2
 AllowMicroVias=0
 AllowBlindVias=0
 RequireCourtyardDefinitions=0
@@ -231,7 +231,7 @@ Enabled=0
 [pcbnew/Netclasses]
 [pcbnew/Netclasses/Default]
 Name=Default
-Clearance=0.2
+Clearance=0.01
 TrackWidth=0.25
 ViaDiameter=0.8
 ViaDrill=0.4
@@ -242,7 +242,7 @@ dPairGap=0.25
 dPairViaGap=0.25
 [pcbnew/Netclasses/1]
 Name=Power
-Clearance=0.2
+Clearance=0.01
 TrackWidth=0.5
 ViaDiameter=0.8
 ViaDrill=0.4

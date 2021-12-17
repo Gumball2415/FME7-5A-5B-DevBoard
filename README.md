@@ -12,7 +12,7 @@ Note that this project is optimized for JLCPCB manufacturing, so you may have to
 - 91.28mm x 58.34mm
 - 1.2mm thickness
 - ENIG-RoHS surface finish recommended; Gold fingers optional
-- Any soldermask color you want!
+- Light silkscreen, dark soldermask
 
 ## License
 
